@@ -223,6 +223,16 @@ form {
     margin: 0;
   }
 
+  .ContainerHeader {
+    width:  calc(100% - 60px);
+    margin: 0;
+  }
+
+  .ContainerContent {
+    padding-left: 0px;
+    margin: 0;
+  }
+
   .InputText {
     width:  calc(100% - 60px);
   }
@@ -277,8 +287,14 @@ form {
     margin: 0;
   }
 
-  .ContainerContent ul {
+  .ContainerHeader {
+    width:  calc(100% - 60px);
+    margin: 0;
+  }
+
+  .ContainerContent {
     padding-left: 0px;
+    margin: 0;
   }
 
   .ImageDiv{
